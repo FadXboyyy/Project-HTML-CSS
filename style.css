@@ -1,0 +1,14 @@
+body {
+  background-attachment: fixed;
+}
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #11a6eb;
+}
+#Project {
+  background-color: #11a6eb;
+}
+
+section {
+  padding-top: 5rem;
+}
